@@ -65,9 +65,6 @@ The parameters in "Replace.py" are followings:
 
 # Hyperparameters
 ```
-import torch
-import os
-
 class HParams:
     def __init__(self):
         self.data_location = './dataset/'#location of  of origin data
@@ -117,9 +114,6 @@ class HParams:
 
         self.max_seq_length = 180 # points length
         self.min_seq_length = 0
-
-
-hp = HParams()
 ```
 # Stroke Interpolation
 
