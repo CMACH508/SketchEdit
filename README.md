@@ -11,7 +11,7 @@ cd SketchEdit
 pip install -r requirements.txt
 ```
 # Preparing Dataset
-Download data from the [QuickDraw dataset](https://quickdraw.withgoogle.com/data) for the corresponding categories and storage these data in the './dataset/' fold.
+Download data from the [QuickDraw dataset](https://quickdraw.withgoogle.com/data) for the corresponding categories and storage these data to the './dataset/' fold.
 
 # Training
 ```
