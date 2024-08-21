@@ -126,3 +126,23 @@ class HParams:
 # Adding Strokes
 
 <img src="images/AddStroke.jpg" width="400" alt="Overview"/>
+
+# Citation
+If you find this work useful for your research, please cite our paper:
+```
+@inproceedings{ijcai2024p493,
+  title     = {SketchEdit: Editing Freehand Sketches at the Stroke-Level},
+  author    = {Li, Tengjie and Tu, Shikui and Xu, Lei},
+  booktitle = {Proceedings of the Thirty-Third International Joint Conference on
+               Artificial Intelligence, {IJCAI-24}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  editor    = {Kate Larson},
+  pages     = {4461--4469},
+  year      = {2024},
+  month     = {8},
+  note      = {Main Track},
+  doi       = {10.24963/ijcai.2024/493},
+  url       = {https://doi.org/10.24963/ijcai.2024/493},
+}
+```
+
